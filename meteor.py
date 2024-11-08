@@ -1,6 +1,6 @@
 from PIL import Image
 
-image = Image.open("./meteor_challenge_01_th.png").convert("RGB")
+image = Image.open("./meteor_challenge_01.png").convert("RGB")
 # image.show()
 width, height = image.size
 
