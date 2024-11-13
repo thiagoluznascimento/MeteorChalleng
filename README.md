@@ -70,7 +70,7 @@
 
 Para dar início ao projeto, pesquisei bibliotecas do Python para manipulação de imagens e identifiquei que a mais utilizada atualmente é a biblioteca **Pillow(PIL)**. Com ela, é possível carregar, ler e manipular cada pixel de uma imagem. O canal do YouTube **Programação dinâmica** me ajudou bastante a entender melhor o funcionamento dessa biblioteca. Aqui está a playlist em que o Professor Hallison Paz explica muito bem como funciona o processamento de imagens com a linguagem Python: [Playlist](https://encurtador.com.br/HwX32). Nessa playlist, ele também aborda o esquema de cores RGB e RGBA, o que foi essencial para o desenvolvimento deste projeto.
 
-Outras fontes estudadas incluem: [Documentação pillow](https://pillow.readthedocs.io/en/stable/handbook/tutorial.html),  [Serprogramador](https://serprogramador.com.br/artigos/topico/css/Como-entender-os-padroes-de-cores-RGB-RGBA-Hexadecimal), [Wikipedia RGBA](https://pt.wikipedia.org/wiki/RGBA), [Wikipedia RGB](https://pt.wikipedia.org/wiki/RGB) e [ChatGPT](https://chatgpt.com/).
+Outras fontes estudadas incluem: [Documentação pillow](https://pillow.readthedocs.io/en/stable/handbook/tutorial.html),  [Serprogramador](https://serprogramador.com.br/artigos/topico/css/Como-entender-os-padroes-de-cores-RGB-RGBA-Hexadecimal), [Wikipedia RGBA](https://pt.wikipedia.org/wiki/RGBA), [Wikipedia RGB](https://pt.wikipedia.org/wiki/RGB), [ChatGPT](https://chatgpt.com/), [kaspersky](https://www.kaspersky.com.br/blog/digital-steganography/12132/).
 
 Para identificar as estrelas, meteoros, água e o solo, foram definidos valores padrão RGB para cada cor fornecida no desafio, da seguinte forma:
 
