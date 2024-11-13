@@ -92,6 +92,6 @@ Para identificar os meteoros que caem na água, foi criado um laço `for` que pe
 ### Observações:
 - O script `meteor.py` foi refatorado para o conceito de programação orientada a objetos (POO);
 
-Ainda estou buscando decifrar a mensagem oculta, mas, até o momento, sem sucesso. Tentei utilizar a biblioteca `stegano` para verificar se havia algum tipo de esteganografia, mas aparentemente não é o caso. Outra possibilidade que considerei foi a presença de um código Morse, já que ele utiliza uma "liguagem" de pontos, porém, essa análise também não me revelou nada. Vou continuar explorando outras abordagens para tentar decifrar o enigma.
+Ainda estou buscando decifrar a mensagem oculta, mas, até o momento, sem sucesso. Tentei utilizar a biblioteca `stegano` para verificar se havia algum tipo de esteganografia, mas aparentemente não é o caso. Outra possibilidade que considerei foi a presença de um código morse, já que ele utiliza uma "linguagem" de pontos, porém, essa análise também não me revelou nada. Vou continuar explorando outras abordagens para tentar decifrar o enigma.
 ### outros
 - SO utilizado: `Ubuntu 24.04.`.
