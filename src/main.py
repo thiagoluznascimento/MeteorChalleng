@@ -35,7 +35,7 @@ class ImageAnalyzer:
                 # import pdb; pdb.set_trace()
         """Identificando meteoros que caem na água"""
         for sizex in range(width):
-            meteor_in_colum = False #setando todos os valores de x(horizontal) como False. Flake8 está pegando essa linha =)
+            meteor_in_colum = False #Definido como FAlse no início de cada coluna para indicar se um meteoro foi encontrado nesta coluna. Flake8 está pegando essa linha =)
             for sizey in range(height):
                 pixel = pixels[sizex, sizey]
                 if pixel == self.RED:
